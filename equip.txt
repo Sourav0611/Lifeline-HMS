@@ -1,0 +1,12 @@
+1) Sphygmomanometer
+2) Thermometer
+3) Otoscope
+4) Stethoscope
+5) Ophthalmoscope
+6) Proctoscope
+7) Defibrillator
+8) Weighing scale
+9) Tape measure
+10) Penlight
+11) Tongue depressor
+12) Oxygen meters
